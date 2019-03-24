@@ -1,0 +1,6 @@
+E:\02study\02code\language\Language\obj\Debug\Language.csprojResolveAssemblyReference.cache
+E:\02study\02code\language\Language\bin\Debug\Language.exe.config
+E:\02study\02code\language\Language\bin\Debug\Language.exe
+E:\02study\02code\language\Language\bin\Debug\Language.pdb
+E:\02study\02code\language\Language\obj\Debug\Language.exe
+E:\02study\02code\language\Language\obj\Debug\Language.pdb
